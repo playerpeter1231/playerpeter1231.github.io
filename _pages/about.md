@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This webpage was created as a way to consolidate and show all of my projects that work with HTML, as well as host resources about me such as my portfolio and blogposts. It was created using a Jekyll Theme called Minimal-Mistakes, originally found [here][Jekyll-Site]. If you have any questions for me, I am responsive on my [Twitter][Twitter-Site], I would be happy to talk.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+If you are interested in discussing work, I am looking to join a team right now. My email is [peterrowe.tech@gmail.com][Email-Site].
+
+[Jekyll-Site]: https://github.com/mmistakes/minimal-mistakes
+[Twitter-Site]: https://github.com/mmistakes/minimal-mistakes
+[Email-Site]: mailto:peterrowe.tech@gmail.com
