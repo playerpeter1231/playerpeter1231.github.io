@@ -5,7 +5,7 @@ title: "About"
 
 I am a developer working on games in Finland currently. If you're looking for some of those games, check out my portfolio here.
 
-[Portfolio!!](portfolio){: .btn .btn--warning}
+[Portfolio!!](https://playerpeter1231.github.io/portfolio/){: .btn .btn--warning}
 
 If you have any questions for me, I am responsive on my [Twitter][Twitter-Site], I would be happy to talk.
 
