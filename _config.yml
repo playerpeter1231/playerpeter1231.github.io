@@ -102,3 +102,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+games_portfolio:
+  type: liquid
+  path: /games/
