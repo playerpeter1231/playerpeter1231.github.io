@@ -1,7 +1,6 @@
 ---
 title: "Portfolio pages have been added!"
 date: 2022-02-15T15:34:30-04:00
-
 categories:
   - Blog
 tags:

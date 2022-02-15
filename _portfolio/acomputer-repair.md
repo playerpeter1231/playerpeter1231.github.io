@@ -7,7 +7,7 @@ My bulk of my experience has come from my time with the Reno Computer Fix, a sma
 
 When the pandemic started, we lost nearly all of our employees, meaning our team downsized to just the owner, myself, and our remote tech. Business was minimal, but we were able to survive by providing local business fulfillment, IT support, and websites/digital marketting. As we were picking up steam, I was able to hire more and more employees to fit the roles as I saw fit. This was when I learned many important skills in training, working together, and genuinely supporting my team members in their different ways, and in their different experiences.
 
-![The Reno Computer Fix](/assets/images/Reno+Computer+Fix+Store+Front+1.jpg)
+![The Reno Computer Fix](/assets/images/BlogPictures/Reno+Computer+Fix+Store+Front+1.jpg)
 
 It's an understatement to say we rebuilt our shop, as we tore down the previous frameworks and systems to start over from scratch. Replacing our old Quickbooks database, I implemented a repair oriented database that we could access from any computer within the shop. Ever job would be provided a custom barcode, would be scanned into our system through python function calls, and then have documentation every step of the way. This allowed us to take deposits as necessary for jobs, and work together on jobs that used to be up to an individual previously. I still worked with customer's daily, whether they were looking for help with their first ever laptop or needing assistance with their company's framework, but with the new system in place, we were better able to distribute the load.
 

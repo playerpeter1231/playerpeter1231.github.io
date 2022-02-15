@@ -1,8 +1,6 @@
 ---
 title: Game Projects
 ---
-One stop shop for all projects that are gaming related
-## Forward
 
 Here are some of the projects that I am able to show some of my work on, though they represent what I have done through my hobby. While I am able to finish games and projects, it has only been recently that I got my own system that can handle development at home. So do bear with my thin portfolio as I continue to add to it in the coming weeks.
 
@@ -18,9 +16,9 @@ For now, here's my [Godot project in playable form][itch-player], and the [code 
 
 Pico-8 is a wonderful little engine for building games under the toughest of constraints, allowing it to be ran on any potato. This was my engine of choice for the several years I was working full-time computer repair, and is perfect for hobby coding in a responsive and lightweight environment.
 
-Here are my version of Sudoku using a live error detection and a Japanese Kanji flashcard game.
+Here are my versions of [Sudoku][lexa-forum-sudo] and a [Japanese Kanji flashcard][lexa-forum-kanji] game.
 
-And just for fun, my first set of test games were small enough that I was able to put them all together into a pack. The first two do follow tutorials, but the third was my earnest attempt at building my own kind of shoot-em-up, if you [want to take a look at them][lexa-forum]
+And just for fun, my first set of test games were small enough that I was able to put them all together into a pack. The first two do follow tutorials, but the third was my earnest attempt at building my own kind of shoot-em-up, if you [want to take a look at them][lexa-forum-space]
 
 ## The Pipeline
 
@@ -28,4 +26,6 @@ And just for fun, my first set of test games were small enough that I was able t
 
 [itch-player]: https://playerpeter1231.itch.io/adventure-test
 [Github-Project]: https://github.com/playerpeter1231/AdventureTest
-[lexa-forum]: https://www.lexaloffle.com/bbs/?tid=34990
+[lexa-forum-sudo]: https://www.lexaloffle.com/bbs/?tid=46596&tkey=nzNla1w5hwlc3gRJlFAy
+[lexa-forum-kanji]: https://www.lexaloffle.com/bbs/?tid=46597&tkey=nBt0koRftLKIEMyDJsJj
+[lexa-forum-space]: https://www.lexaloffle.com/bbs/?tid=34990
