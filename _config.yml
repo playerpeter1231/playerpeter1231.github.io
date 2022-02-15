@@ -66,6 +66,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/playerpeter1231"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:peterrowe.tech@gmail.com"
 
 footer:
   links:
@@ -75,6 +78,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/playerpeter1231"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:peterrowe.tech@gmail.com"
 
 defaults:
   # _posts

@@ -22,6 +22,8 @@ And just for fun, my first set of test games were small enough that I was able t
 
 ## The Pipeline
 
+I am the kind of person who has to write his ideas down with good ol' fashion pen and paper before beginning the next step of any project. There are a lot of plans and ideas written down already, and they will become digital works before you know it. If you want to know more about what I'm thinking, I'll be exploring game design in my blog and Twitter. Or you can reach out to me for a chat, I'm avalaible across all platforms. Thanks for taking the time to read my page!
+
 ![My desk and notes](/assets/images/BlogPictures/photo_2022-02-15_15-02-59.jpg)
 
 [itch-player]: https://playerpeter1231.itch.io/adventure-test
