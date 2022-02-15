@@ -95,7 +95,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _previous work
   - scope:
       path: "_portfolio"
       type: portfolio
