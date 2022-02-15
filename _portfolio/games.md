@@ -1,7 +1,7 @@
 ---
 title: Game Projects
 ---
-
+One stop shop for all projects that are gaming related
 ## Forward
 
 Here are some of the projects that I am able to show some of my work on, though they represent what I have done through my hobby. While I am able to finish games and projects, it has only been recently that I got my own system that can handle development at home. So do bear with my thin portfolio as I continue to add to it in the coming weeks.
