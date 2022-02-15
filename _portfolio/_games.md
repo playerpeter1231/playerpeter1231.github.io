@@ -12,7 +12,7 @@ We utilized Unity in my university classes for simple games and simulations. I p
 
 Working in 2D, I have found that the younger brother to Unity, Godot, is a strong competitor if you like platforming and puzzle games. My goal is to implement the rest of my ideas I have for the game to explore the code environment of GDScript further. Then I can then move to developing a larger project that brings different gameplay styles, such as farming and hands on crafting, to a larger experience along the lines of Recettear. Godot works great with developing on mobile too, so I am developing my projects in mind of the mobile platform.
 
-For now, here's my [Godot project in playable form][itch-player], and the [code uploaded to Github][Github Project].
+For now, here's my [Godot project in playable form][itch-player], and the [code uploaded to Github][Github-Project].
 
 ## Pico-8
 
@@ -25,3 +25,7 @@ And just for fun, my first set of test games were small enough that I was able t
 ## The Pipeline
 
 ![My desk and notes](/assets/images/BlogPictures/photo_2022-02-15_15-02-59.jpg)
+
+[itch-player]: https://playerpeter1231.itch.io/adventure-test
+[Github-Project]: https://github.com/playerpeter1231/AdventureTest
+[lexa-forum]: https://www.lexaloffle.com/bbs/?tid=34990

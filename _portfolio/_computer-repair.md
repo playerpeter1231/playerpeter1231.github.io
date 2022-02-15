@@ -1,8 +1,5 @@
 ---
 title: Computer Repair and Management
-header:
-  overlay_image: /assets/images/BlogPictures/20210616_203125.jpg
-  overlay_filter: 0.75
 ---
 
 
