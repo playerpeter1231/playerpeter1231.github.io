@@ -1,6 +1,6 @@
 ---
 title: "Portfolio is up!"
-date: 2022-02-15
+date: 2022-02-15T00:00:00+02:00
 categories:
   - Blog
 tags:
