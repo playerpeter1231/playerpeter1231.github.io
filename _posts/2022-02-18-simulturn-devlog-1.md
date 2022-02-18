@@ -25,4 +25,6 @@ If you want to look at the code and history thereof, it is available in a public
 
 [Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}
 
+![My notes from the day](/assets/images/BlogPictures/Devlog1.4.png)
+
 [code-repo]: https://github.com/playerpeter1231/SimulTurn-Tactics
