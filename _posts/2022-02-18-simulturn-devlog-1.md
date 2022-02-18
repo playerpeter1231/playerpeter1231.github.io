@@ -19,7 +19,7 @@ Once the characters have all reached the end of their path, the previous path tu
 
 Code was handled in only two scripts, which were the Main Scene Controller, and the Player script (currently inaptly named DragLine.gd). The next step will be cleaning up the circle's interaction with the characters, and the few bugs found on button inputs and end of animation selection, both detailed on the Itch page where the game is hosted. Then, the exciting part, I will be adding hit points and a small handful of attacks to show where the direction of this project is heading in. Lastly, I will develop the prototype onto mobile for testing on local hardware, and I will share with you the progress throughout the weekend!
 
-![Player scene from within the editor](/assets/images/BlogPictures/Devlog1.1.jpg)
+![Player scene from within the editor](/assets/images/BlogPictures/Devlog1.1.png)
 
 If you want to look at the code and history thereof, it is available in a public [github repository][code-repo], and of course if you want to play it, click this shiny button!
 
