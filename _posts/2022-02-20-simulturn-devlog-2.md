@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/BlogPictures/Devlog2.4.jpg
   overlay_filter: 0.75
 
-exerpt: "Cool code vs. Good game design - and why I had to rebuild."
+excerpt: "Cool code vs. Good game design - and why I had to rebuild."
 categories:
   - Blog
 tags:
@@ -34,7 +34,7 @@ Along with this rework, I've gotten the project successfully building onto my An
 
 Next up, I will be working on movement animations during dragging, and collision warnings so characters can't collide during the round. A tall order for sure, but a challenge I am ready to face in the morning! For now, I will enjoy an unwind in the sauna! 😤
 
-[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}{: .align-center}
+[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning .align-center}
 
 ![Notes from the day](/assets/images/BlogPictures/Devlog2.4.jpg)
 
