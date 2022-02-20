@@ -4,13 +4,13 @@ date: 2022-02-20T00:00:00+02:00
 header:
   overlay_image: /assets/images/BlogPictures/Devlog2.4.jpg
   overlay_filter: 0.75
+
+exerpt: "Cool code vs. Good game design - and why I had to rebuild."
 categories:
   - Blog
 tags:
   - Game Dev
 ---
-
-# Cool code vs. Good game design - and why I had to rebuild.
 
 In today's devlog, we'll be starting with a little bit of game design discussion while I explain my reworking of the path laying system I built last time. If you played the first build, or go back to look at it, you'll find that it gave the player a lot of freedom to draw the paths they would like within the distance given. This was the first step into the system my game will be fundamentally based on, and as the fundamental system, it needs to be readable and reliable for everyone playing. 
 
@@ -34,8 +34,7 @@ Along with this rework, I've gotten the project successfully building onto my An
 
 Next up, I will be working on movement animations during dragging, and collision warnings so characters can't collide during the round. A tall order for sure, but a challenge I am ready to face in the morning! For now, I will enjoy an unwind in the sauna! 😤
 
-[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}
-{: .align-center}
+[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}{: .align-center}
 
 ![Notes from the day](/assets/images/BlogPictures/Devlog2.4.jpg)
 

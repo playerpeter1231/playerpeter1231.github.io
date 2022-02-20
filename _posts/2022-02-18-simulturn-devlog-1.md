@@ -4,7 +4,8 @@ date: 2022-02-18T00:00:00+02:00
 header:
   overlay_image: /assets/images/BlogPictures/Devlog1.4.png
   overlay_filter: 0.75
-  excerpt: The start of my big new project!
+
+excerpt: "The start of my big new project!"
 categories:
   - Blog
 tags:
@@ -27,8 +28,7 @@ Code was handled in only two scripts, which were the Main Scene Controller, and 
 
 If you want to look at the code and history thereof, it is available in a public [github repository][code-repo], and of course if you want to play it, click this shiny button!
 
-[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}
-{: .align-center}
+[Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning .align-center}
 
 ![My notes from the day](/assets/images/BlogPictures/Devlog1.4.png)
 
