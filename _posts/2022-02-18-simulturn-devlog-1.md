@@ -1,6 +1,8 @@
 ---
 title: "Simulturn Devlog Part 1"
 date: 2022-02-18T00:00:00+02:00
+  overlay_image: /assets/images/BlogPictures/Devlog1.4.png
+  overlay_filter: 0.75
 categories:
   - Blog
 tags:

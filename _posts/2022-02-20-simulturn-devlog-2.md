@@ -1,6 +1,9 @@
 ---
 title: "Simulturn Devlog Part 2: Pathing Rework"
 date: 2022-02-20T00:00:00+02:00
+header:
+  overlay_image: /assets/images/BlogPictures/Devlog2.4.jpg
+  overlay_filter: 0.75
 categories:
   - Blog
 tags:
@@ -23,6 +26,14 @@ Some players could get a movement increase just by dragging their input quickly,
 
 ![Game working properly](/assets/images/BlogPictures/Devlog2.2.gif)
 
+Along with this rework, I've gotten the project successfully building onto my Android device. The big reason I am using Godot as my engine for this project is because of it's live testing capability, sending the current build to your phone at the push of a button. Now I can live test the gesture controls that I will be implementing for map movement, attacks, and menus. A huge step forward for the project with just a few clicks of a button!
+
+![On the phone!](/assets/images/BlogPictures/video_2022-02-20_20-27-48.gif)
+
+Next up, I will be working on movement animations during dragging, and collision warnings so characters can't collide during the round. A tall order for sure, but a challenge I am ready to face in the morning! For now, I will enjoy an unwind in the sauna! 😤
+
 [Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}
+
+![Notes from the day](/assets/images/BlogPictures/Devlog2.4.jpg)
 
 [desmos]: https://www.desmos.com/calculator/chqpnwrxql
