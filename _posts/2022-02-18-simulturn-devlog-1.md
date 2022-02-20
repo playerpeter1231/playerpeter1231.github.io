@@ -28,6 +28,7 @@ Code was handled in only two scripts, which were the Main Scene Controller, and 
 If you want to look at the code and history thereof, it is available in a public [github repository][code-repo], and of course if you want to play it, click this shiny button!
 
 [Play the game here!](https://playerpeter1231.itch.io/simulturn-tactics-prototype){: .btn .btn--warning}
+{: .align-center}
 
 ![My notes from the day](/assets/images/BlogPictures/Devlog1.4.png)
 
