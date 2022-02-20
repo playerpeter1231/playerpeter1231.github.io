@@ -4,13 +4,12 @@ date: 2022-02-18T00:00:00+02:00
 header:
   overlay_image: /assets/images/BlogPictures/Devlog1.4.png
   overlay_filter: 0.75
+  excerpt: The start of my big new project!
 categories:
   - Blog
 tags:
   - Game Dev
 ---
-
-# The start of my big new project!
 
 While I have a couple of projects that I have on the verge of finishing, I have also put myself on a time crunch to add a new game to my portfolio to show my process building a new project. I've been wanting to start a specific project for a few years anyway, so may as well use this time as an excuse to jump right on in.
 
