@@ -10,6 +10,8 @@ tags:
   - Game Dev
 ---
 
+# Cool code vs. Good game design - and why I had to rebuild.
+
 In today's devlog, we'll be starting with a little bit of game design discussion while I explain my reworking of the path laying system I built last time. If you played the first build, or go back to look at it, you'll find that it gave the player a lot of freedom to draw the paths they would like within the distance given. This was the first step into the system my game will be fundamentally based on, and as the fundamental system, it needs to be readable and reliable for everyone playing. 
 
 As fun as it was drawing paths for the different characters, no player will actually have fun sitting down for a game just to find themselves calculating "the enemy's character goes at 5m/s, so I can expect them to be within this meter radius at this time," especially when that enemy can also just spend their turn squiggle dodging seemingly randomly. There's no weight to any one decision if the only decisions are all shots in the dark. Not to mention, drawing paths of nearly 50 points per character and iterating through the calculations for both players causes unnecessary processing that can be cut down on.
